@@ -1,0 +1,11 @@
+airline,city,ontime,delayed
+ALSKA,Los Angeles,497,62
+ALSKA,Phoenix,221,12
+ALSKA,San Diego,212,20
+ALSKA,San Francisco,503,102
+ALSKA,Seattle,1841,305
+AM WEST,Los Angeles,694,117
+AM WEST,Phoenix,4840,415
+AM WEST,San Diego,383,65
+AM WEST,San Francisco,320,129
+AM WEST,Seattle,201,61
